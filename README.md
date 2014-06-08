@@ -18,11 +18,11 @@ Available Schemes
 ------------------
 Custom cannonical schemes for Google IME are available for the following transliteration schemes:
 
-* [Baraha]()
-* [Barahavat]()
-* [ITRANS]()
-* [Ksharanam]()
-* [Harvard-Kyoto]()
+* [Baraha](http://www.baraha.com/help/Baraha/contents.htm)
+* [Barahavat](http://daivajnanam.blogspot.com/p/barahavat.html)
+* [ITRANS](http://www.aczoom.com/itrans/)
+* [Ksharanam](http://blog.ambari.sh/2014/03/a-custom-keymap-for-indian-languages.html)
+* [Harvard-Kyoto](http://en.wikipedia.org/wiki/Harvard-Kyoto)
 
 And for the following Indic scripts:
 
