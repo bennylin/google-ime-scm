@@ -35,3 +35,7 @@ And for the following Indic scripts:
 * Gujarati
 * Tamil
 * Malayalam
+
+Caveats
+-------
+Almost all North Indian languages are not Pheonetic for example, करके is read कर्के i.e. the अ of र is dropped while in भारत the अ is retained for र. Additionally the final अ of words are dropped if they exist. These are contextual rules that Google IME does not provide a way of specifying. Hence these features are absent while using Google IME with these schemes for North Indian languages. However, Samskrita and Sound Indian languages work as expected.
