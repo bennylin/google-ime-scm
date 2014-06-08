@@ -30,7 +30,6 @@ And for the following Indic scripts:
 * Bengali
 * Gurmukhi
 * Oriya
-* Brahmi
 * Kannada
 * Telgu
 * Gujarati
