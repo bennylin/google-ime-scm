@@ -65,7 +65,7 @@ lxq ꦭꦼ
 }
 class tandaBaca {
 | ꧊
-! ꧋
+|| ꧋
 , ꧈
 . ꧉
 : ꧇
