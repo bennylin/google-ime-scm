@@ -1,4 +1,4 @@
-version: 1.0
+version: 1.1
 name: Nulisa-v1
 stop-char: \
 using classes
