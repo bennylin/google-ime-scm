@@ -1,5 +1,5 @@
-version: 1.1
-name: Nulisa-v1
+version: 1.0
+name: Nulisa-v1.1
 stop-char: \
 using classes
 class-delimiters: { }
